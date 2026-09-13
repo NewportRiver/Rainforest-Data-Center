@@ -1,0 +1,14 @@
+{
+  "population": 100,
+  "average_it_load_kw": 150,
+  "pue": 1.15,
+  "average_crop_lighting_kw": 800,
+  "average_other_electrical_kw": 350,
+  "useful_heat_fraction": 0.60,
+  "gross_water_demand_kg_per_person_day": 25,
+  "water_recovery_fraction": 0.98,
+  "oxygen_kg_per_person_day": 0.84,
+  "crop_oxygen_fraction": 0.70,
+  "co2_kg_per_person_day": 1.00,
+  "crop_co2_uptake_fraction": 0.70
+}
