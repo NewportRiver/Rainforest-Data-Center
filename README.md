@@ -29,6 +29,20 @@ flowchart TD
     GH -->|biochar and nutrients| RF
 ```
 
+## Mars biodome extension
+
+The project now includes a researched 100-person Mars settlement architecture in which a liquid-cooled data center serves as the habitat's thermal and computational core.
+
+- [Mars biodome research report](MARS_BIODOME.md)
+- [Mars mass and energy balance model](model/mars_balance.py)
+- [100-person scenario](model/mars_100_people.json)
+
+Run the Mars model:
+
+```bash
+python model/mars_balance.py model/mars_100_people.json
+```
+
 ## Design principles
 
 1. Avoid intact-forest clearing; prefer degraded land or brownfields.
