@@ -1,0 +1,13 @@
+{
+  "annual_it_energy_mwh": 10000,
+  "pue": 1.15,
+  "heat_rejection_fraction": 0.98,
+  "heat_reuse_fraction": 0.35,
+  "annual_water_withdrawal_m3": 3000,
+  "annual_water_returned_m3": 2200,
+  "verified_replenishment_m3": 900,
+  "electricity_tco2e_per_mwh": 0.02,
+  "annualized_embodied_tco2e": 250,
+  "verified_avoided_tco2e": 120,
+  "durable_additional_removals_tco2e": 200
+}
